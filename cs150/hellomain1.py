@@ -1,0 +1,6 @@
+from hellomain import *
+
+
+
+
+main()
